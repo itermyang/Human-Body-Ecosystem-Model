@@ -2,7 +2,7 @@
 # 五脏-五系人体系统模型
 The Five-Zang & Five-Systems Model of Human Biology
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://creativecommons.org/licenses/MIT)
 
 ## 项目简介 | Project Overview
 
@@ -71,8 +71,6 @@ This project aims to build a theoretical framework that bridges traditional Chin
 我们坚信，一个优秀的模型需要在集体智慧中迭代进化。欢迎任何形式的贡献！
 
 **您可以：**
-- 🐛 **报告问题:** 在 [Issues](链接到您的Issues页面) 中提出模型的逻辑漏洞或解释不清之处。
-- 💡 **参与讨论:** 在 [Discussions](链接到您的Discussions页面) 中就模型的某个细节进行深入探讨。
 - 📝 **贡献内容:** 提交 Pull Request 来完善文档、添加病例分析、或提出新的推论。
 - 🌍 **协助翻译:** 帮助我们将项目翻译成其他语言。
 
@@ -80,11 +78,7 @@ This project aims to build a theoretical framework that bridges traditional Chin
 
 ## 许可证 | License
 
-本项目采用 [知识共享 署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/) 进行许可。
-
-## 联系我们 | Contact
-
-- 通过 GitHub [Issues](链接到您的Issues页面) 或 [Discussions](链接到您的Discussions页面) 进行交流。
+本项目采用 [知识共享](https://creativecommons.org/licenses/MIT) 进行许可。
 
 ---
 
